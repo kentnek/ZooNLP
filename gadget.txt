@@ -1,0 +1,121 @@
+Modem 3G phát wifi NTT PWR-100F: Là modem dùng sim 3G phát wifi cho cùng lúc nhiều thiết bị truy cập internet như laptop, điện thoại, iPad, PC, và các thiết bị thu sóng wifi khác... Ngoài ra em nó còn được hỗ trợ 1 cổng LAN RJ45 dùng cho thiết bị không có wifi phải kết nối cáp.
+
+Trường hợp bạn không có sim 3G thì em nó có thể làm chức năng phát wifi như một con router phát wifi chuyên nghiệp và lấy cáp mạng từ modem kết nối vào cổng RJ45 của em nó.
+
+Đặc biệt: Bạn không có sim 3G, không có cáp mạng từ modem thì em nó vẫn còn thêm chức năng thu wifi của hàng xóm và phát lại cho nhiều máy xài qua wifi và cáp LAN của em nó.
+ Ngoài ra em nó còn được hỗ trợ khe cắm thẻ nhớ MicroSD rất tiện lợi khi cần copy dữ liệu qua LAN và internet.
+
+ThinkPad T420 có kích thước 34 cm x 23 cm x 3cm và nặng 2,24 kg, được trang bị màn hình 14 inch LED với lớp phủ mờ kết hợp chống lóa và bảo vệ thông tin hiện thị trên màn hình trước sự soi mói ở nơi công cộng. Tỷ lệ 16:9 của màn hình quen thuộc hơn với phần lớn người dùng thay vì tỉ lệ 16:10 trước kia và nhờ đó các nội dung đa phương tiện sẽ được hiện thị đẹp hơn ở mức này.
+
+Máy có thiết kế khá rộng rãi cho hầu như mọi chi tiết, từ phần bo màn hình, phần nghỉ tay (palm-rest) đến 2 loa đặt thoải mái 2 phía của bàn phím. Bàn phím của dòng ThinkPad, vốn được đánh giá cao về thiết kế, nay có cải tiến thêm với công nghệ giảm ồn bàn phím, làm to các phím dùng thường xuyên như Esc hay Delete...., giúp người dùng cảm giác dễ chịu khi làm việc, đặc biệt là trong thời gian dài. Cạnh máy, chỗ phần nghỉ tay của T420 được bo tròn chứ không vuông vắn như nhiều mẫu laptop khác. Nhờ độ rộng của phần nghỉ tay, bàn rê hỗ trợ đa điểm của máy cũng được thiết kế khá to.
+
+T420 sử dụng bộ vi xử lý thế hệ thứ hai của Intel với nền tảng Sandy Bridge. Với Intel Core i5 2410 M 2,3 GHz (có lựa chọn core i7) tốc độ tính toán cũng như khả năng xử lý đồ họa của T420 được tăng cường đáng kể do việc tích hợp bộ xử lý đồ họa và lõi xử lý trung tâm trên cùng một đế chip, giảm thiểu thời gian trễ trong quá trình xử lý các thông tin liên quan đến đồ họa. Cải tiến này của nền tảng Sandy Bridge cũng đóng góp nhiều vào việc cải thiện thời lượng pin của T420, nâng cao hơn thời gian làm việc.
+
+Máy được trang bị 2 GB RAM DDR3 (nâng cấp tới 8 GB), ổ cứng 320 GB, card màn hình Intel HD Graphics 3000 tích hợp, hoặc có lựa chọn cạc rời NVIDIA công nghệ Optimus, gia cường với trình quản lý đồ họa NVIDIA Control Panel. Với phần mềm này, khả năng xử lý cũng như hỗ trợ đồ họa 3D của máy được nâng cao đáng kể, với những chế độ thiết lập đặc biệt khi máy phải chạy các chương trình yêu cầu đồ họa cao như 3D Studio hay Adobe Premier Pro… Chức năng này của NVIDIA có thể được coi như nút Graphic Switch mềm trong dòng IdeaPad của Lenovo.
+
+Đặc biệt, T420 cũng được trang bị bộ chứng chỉ Lenovo Enhanced Experience 2.0 dành cho Windows 7, khi kết hợp với công nghệ RapidBoot technology, máy khởi động/tắt máy nhanh hơn so với các máy dùng Windows 7 thông thường. Bên cạnh đó, Lenovo Enhanced Experience 2.0 cũng giúp tối ưu hóa trải nghiệm đàm thoại qua web hay các tính năng bảo mật.
+
+EE2.0 dành cho Windows 7 giúp T420 khởi động/tắt nhanh hơn và tăng cường trải nghiệm cho nhiều tiện ích khác
+Công nghệ Lenovo Enhanced Experience 2.0 dành cho Windows 7 giúp T420 khởi động/tắt nhanh hơn và tăng cường trải nghiệm cho nhiều tiện ích khác.
+ 
+T420 có kết cấu lồng cuộn bảo vệ phần màn hình cùng các linh kiện bên trong, khung bản lề hợp kim, các rãnh chống tràn nước, vỏ sần, khung bảo vệ ổ cứng cùng lớp đệm kiểu túi khí… giúp máy cứng cáp, chịu đựng tốt trước những va đập trong các môi trường làm việc khắc nghiệt khác nhau.
+
+Hướng tới khách hàng công tác trong các tổ chức và doanh nghiệp có nhu cầu cao về an toàn thông tin, ThinkPad T420 được chuẩn bị sẵn với một loạt các chức năng bảo vệ nhiều lớp giúp hạn chế rủi ro về bảo mật xuống mức thấp nhất. Cùng với đầu đọc vân tay và camera hỗ trợ độ phân giải 720p HD, người dùng có thể lựa chọn thay thế mật khẩu cổ điển của mình bằng mật khẩu vân tay hay khóa bằng đăng nhập hình ảnh. Intel Management and Security là phần mềm có sẵn trong T420 cung cấp khả năng bảo mật toàn diện cho máy, bao gồm cả chức năng chống truy cập dữ liệu trong trường hợp máy bị mất cắp. Các chức năng khác như mã hóa ổ cứng, khóa các cổng từ bios, khóa USB…cũng tạo sự an toàn tuyệt đối cho T420.
+
+Bên cạnh đó, như tất cả các máy thuộc dòng Think, bộ công cụ ThinkVantage Technologies trong T420 giúp người dùng quản lý máy hiệu quả hơn với một loạt các tiện ích như quản lý nguồn điện (Power Manager), quản lý kết nối, sao lưu và khôi phục, quản lý mật khẩu...
+
+Là một trong những mẫu máy "xanh" của Lenovo, ThinkPad T420 tăng tối đa thời lượng pin bằng việc sử dụng hiệu quả nguồn điện năng cũng như tăng tuổi thọ của pack pin. Lenovo cho biết ThinkPad T420 có thể đạt thời lượng pin là 10 giờ làm việc liên tục với pin 9 cell.
+
+ThinkPad T420 đã sẵn sàng cho đặt hàng qua website của nhà sản xuất Lenovo. Giá cấu hình khởi điểm của máy này là 22.900.000 đồng (đã bao gồm thuế VAT) với chip Core i5-2410, 2 GB RAM, 320 GB HDD, pin 6 cell, hệ điều hành DOS, bảo hành 3 năm.
+
+Chuyên cung cấp phân phối các loại điện thoại chính hãng SamSung, Nokia, Oppo, Philips, Lenovo.
+
+Siêu khuyến mãi các sản phẩm:
+
+Samsung Galaxy Note 3 : 10.790.000
+
+Đồng Hồ Galaxy Gear S: 7.690.000 
+
+Samsung Galaxy V : 1.960.000
+
+Samsung Galaxy Grand 2: 4.750.000
+
+Samsung Galaxy S5 : 10.560.000
+
+Samsung Galaxy Note 4: 15.690.000
+
+Không những sở hữu kích cỡ màn hình lớn hơn iPhone 5, iPhone 6 còn lược bỏ hoàn toàn viền máy, đồng nghĩa với việc màn hình sẽ chiếm trọn toàn bộ mặt tiền của điện thoại.
+
+iphone 6 xách tay
+
+Tuy nhiên, các tín đồ của "Táo khuyết" đừng vội mừng, bởi đây mới là thiết kế ý tưởng về iPhone 6 do Phone Arena công bố. Theo đó, độ phân giải của iPhone 6 là 1.296 x 754 pixel, tương đương với mật độ điểm ảnh 333 ppi. Mật độ này cao hơn một chút so với tỷ lệ 326 ppi của iPhone 5, nhưng vẫn thua kém mật độ 441 ppi trên màn hình 5 inch của Samsung Galaxy S4.
+
+Ngoài màn hình lớn, iPhone 6 tưởng tượng còn sở hữu nhiều cấu hình trong mơ khác như vi xử lý A7 gồm hai chip lõi tứ xung nhịp lên tới 2,8 GHz. Bên cạnh đó, toàn bộ khu vực xung quanh nút Home đều có khả năng cảm ứng, hỗ trợ tối đa nền tảng android iOS8/iPhone 6. Người dùng sẽ có thể chạm 2 lần để kích hoạt tính năng đa nhiệm, chạm để trở về màn hình Home hoặc tự mình tùy biến đích đến của nút này.
+
+Mẫu thiết kế concept cũng cho thấy sự thay đổi về chất liệu chế tác điện thoại, khi 60% khung máy được làm từ carbon và chỉ có 40% bằng nhôm siêu nhẹ. Sự kết hợp này khiến cho điện thoại vừa có độ cứng của sợi carbon, lại vừa có cảm giác nhẹ nhõm, thanh thoát của kim loại. Hơn nữa, thân máy aluminum-carbon cũng cho phép iPhone 6 concept ngâm được nước ở độ sâu 60 cm trong thời gian 30 phút.
+Thời lượng pin 2.800 mAh cho phép điện thoại bật 3G liên tục trong 12 tiếng. Tốc độ của máy nhanh gấp 4 lần so với iPhone 5 và nhanh gấp đôi so với Samsung Galaxy S4. Sản phẩm sẽ có 3 phiên bản tương ứng với dung lượng bộ nhớ 64GB, 128GB và 256GB. 
+Camera chính của máy có độ phân giải lên tới 20,2 MP, trong khi camera phụ mặt trước là 8 MP, tương đương với một camera trung bình khá hiện nay. Máy có thể quay được video ở độ phân giải 2K và có thể điều chỉnh độ mở ống kính từ F1.8 đến F4.9, cho phép chụp ảnh rõ nét cả trong điều kiện yếu sáng.
+Chúng ta đã có iPad Mini, vậy tại sao lại không có iPhone Mini? Bản tin concept của Phone Arena cũng đăng tải cả hình ảnh tưởng tượng về iPhone 6 Mini, song cấu hình của thiết bị này không được chia sẻ.
+Apple dự định tung ra phiên bản iPhone kế tiếp, iPhone 5S vào mùa thu này. Chúng ta không trông đợi sẽ chứng kiến những thay đổi đáng kể đối với diện mạo của iPhone 
+Nhưng năm tới, Apple rất có thể tung ra “iPhone 6” được thiết kế lại đáng kể. Apple đã từng muốn như vậy.
+Nhà thiết kế hình ảnh và nghệ sĩ Johnny Plaid đã hình dung ra một cập nhật đáng kể cho iPhone 6 với việc tận dụng ưu điểm màn hình sắc cạnh, các bộ cảm biến đa chạm ở đáy thiết bị mà không cần đến phím Home (home button) và một bộ sạc hoàn toàn mới tích hợp công nghệ MagSafe.
+Chúng ta biết iPhone kế tiếp sẽ là 5S và iPhone 5C được đồn đại. Nhà thiết kế hình ảnh, nghệ sĩ Johnny Plaid đã hình dung iPhone 6 có thể như thế nào. Dưới đây là các hình ảnh Johnny Plaid hình dung về iPhone 6:
+Bằng cách làm mặt kính phía trước rộng và dài hơn, màn hình sẽ trở thành tài sản thực sự. Đây là những gì Motorola gần đây thực hiện cho smartphone mới nhất, Moto X.
+Trong khi khái niệm này dường như hơi cường điệu nhưng vẫn khó hình dung iPhone 6 sẽ như thế này
+Flash đã được di chuyển đến đối diện máy ảnh. Dường như có một microphone (có thể là để triệt nhiễu) gần máy ảnh.
+Phiên bản màu đen luôn luôn bóng bẩy. Chúng ta tưởng tượng rằng dễ dàng để sửa chữa điện thoại mang tính tư tưởng này bởi vì mọi nội thất bên trong ở ngay phía dưới màn hình.
+Thay cho việc chỉ trình diễn iPhone 6 sẽ như thế nào, Johnny Plaids cũng đã tư duy lại một màn hình Retina mới. Và trong đó cũng có một khái niệm màn hình lớp REALD.
+Thậm chí có một phiên bản iPhone nhỏ hơn, iPhone mini.
+Để so sánh dưới đây là khái niệm gần với iPhone 5 hiện tại. Khái niệm này cho thấy iPhone 6 có kích thước gần như iPhone 5 nhưng bạn sẽ nhận thấy màn hình là tài sản thực hơn vì có khá sắc nét.
+Trong khi một sạc iPhone MagSafe khá lớn thì thật phiền khi phải mua thêm một sạc khác.
+Đây là những gì video sẽ như thế nào trên màn hình rộng hơn.
+Và đây là trang web màn hình rộng hơn.
+Đáy của điện thoại tích hợp hỗ trợ cử chỉ đa chạm, do đó sẽ không cần đến phím home.
+
+APPLE
+IPHONE 4 8G QT------A: 2050K (TRẮNG CỘNG 50K)[​IMG]
+IPHONE 4 16G QT------A: 2150K (TRẮNG CỘNG 100K)[​IMG]
+IPHONE 4 32G QT------A: 2350K (TRẮNG CỘNG 100K)[​IMG]
+IPHONE 4S 8G QT------A: 2700K (TRẮNG CỘNG 100K)[​IMG]
+IPHONE 4S 16G QT------A: 2900K (TRẮNG CỘNG 100K)[​IMG]
+IPHONE 4S 32G QT------A: 3100K (TRẮNG CỘNG 100K)[​IMG]
+IPHONE 5 16G QT------A: 5300K (TRẮNG CỘNG 400K)
+=============================
+LG
+LG OPTIMUS G PRO 2 -----A:5000K[​IMG]
+LG OPTIMUS G2 F320, LS980,D800,D801-----A:3650K[​IMG]
+LG OPTIMUS G PRO -----A:3100K[​IMG]
+LG OPTIMUS GX -----A:3100K[​IMG]
+LG OPTIMUS G F180 -----A: 2350K[​IMG]
+LG LTE2 F160--------------A: 1700K[​IMG]
+LG LTE3--------------A: 1950K[​IMG]
+LG vu2--------------A: 1900K[​IMG]
+=============================
+
+SKY PANTECH
+[​IMG]VEGA A900 ----------A: 3550K[​IMG]
+[​IMG]VEGA A890 ----------A: 3650K[​IMG]
+[​IMG]VEGA A880 ----------A: 3450K[​IMG]
+[​IMG]VEGA A870 ----------A: 3100K[​IMG]
+[​IMG]VEGA A860 ----------A: 2550K[​IMG]
+[​IMG]VEGA A850 R3----------A: 2050K[​IMG]
+[​IMG]SKY A840----------------- A: 1850K[​IMG]
+[​IMG]SKY A830----------------A: 1450K[​IMG]
+[​IMG]SKY A820----------------A: 1350K[​IMG]
+[​IMG]SKY A810----------------A: 1300K[​IMG]
+=============================
+
+SAMSUNG
+SS Galaxy S5 new BẢN QT --------: 7500k[​IMG]
+SS Galaxy S4 new BẢN QT--------: 5500k[​IMG]
+SS Galaxy S3 E210 new -------- 3200k[​IMG]
+SS GLX NOTE 2 new BẢN QT-------4500K[​IMG]
+SS GLX NOTE 3 new BẢN QT-------7500K[​IMG]
+=============================
+
+HTC
+HTC BUTTERFLY BẢN VERZIN --------: A 2800k[​IMG]
+HTC 8X NEW --------: 2000k[​IMG]
+
+
+
