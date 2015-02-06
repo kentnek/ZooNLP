@@ -15,6 +15,8 @@ import java.io.FileWriter;
 
 public class ZooTokenizer {
 
+    //java -cp stanford-ner-3.5.0.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop train_file.prop
+
     static public final String WITH_DELIMITER = "((?<=%1$s)|(?=%1$s))";
     static public final String PATTERN = String.format(WITH_DELIMITER, "[\\p{Punct}\\s]+");
 
